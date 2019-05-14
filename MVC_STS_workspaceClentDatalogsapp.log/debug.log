@@ -1,0 +1,86 @@
+2019-05-14 00:00:03 - Start expire sessions StandardManager at 1557772203451 sessioncount 0
+2019-05-14 00:00:03 - End expire sessions StandardManager processingTime 43 expired sessions: 0
+2019-05-14 00:01:03 - Start expire sessions StandardManager at 1557772263503 sessioncount 0
+2019-05-14 00:01:03 - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2019-05-14 00:02:03 - Start expire sessions StandardManager at 1557772323511 sessioncount 0
+2019-05-14 00:02:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:03:03 - Start expire sessions StandardManager at 1557772383518 sessioncount 0
+2019-05-14 00:03:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:04:03 - Start expire sessions StandardManager at 1557772443526 sessioncount 0
+2019-05-14 00:04:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:05:03 - Start expire sessions StandardManager at 1557772503533 sessioncount 0
+2019-05-14 00:05:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:06:03 - Start expire sessions StandardManager at 1557772563553 sessioncount 0
+2019-05-14 00:06:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:07:03 - Start expire sessions StandardManager at 1557772623573 sessioncount 0
+2019-05-14 00:07:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:08:03 - Start expire sessions StandardManager at 1557772683593 sessioncount 0
+2019-05-14 00:08:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:09:03 - Start expire sessions StandardManager at 1557772743601 sessioncount 0
+2019-05-14 00:09:03 - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2019-05-14 00:10:03 - Start expire sessions StandardManager at 1557772803608 sessioncount 0
+2019-05-14 00:10:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:11:03 - Start expire sessions StandardManager at 1557772863615 sessioncount 0
+2019-05-14 00:11:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:12:03 - Start expire sessions StandardManager at 1557772923623 sessioncount 0
+2019-05-14 00:12:03 - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2019-05-14 00:13:03 - Start expire sessions StandardManager at 1557772983633 sessioncount 0
+2019-05-14 00:13:03 - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2019-05-14 00:13:07 - RMI TCP Connection(1)-127.0.0.1: accepted socket from [127.0.0.1:50867]
+2019-05-14 00:13:07 - RMI TCP Connection(1)-127.0.0.1: (port 50787) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: accepted socket from [127.0.0.1:50868]
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "[Ljava.rmi.server.ObjID;", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.ObjID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.UID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.Lease", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.VMID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "[B", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(1)-127.0.0.1: (port 50787) op = 82
+2019-05-14 00:13:09 - RMI TCP Connection(1)-127.0.0.1: (port 50787) op = 84
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "[Ljava.rmi.server.ObjID;", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.ObjID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.UID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.Lease", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.VMID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "[B", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@33339a8b
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 84
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: (port 50788) op = 80
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "javax.management.ObjectName", codebase = ""
+2019-05-14 00:13:09 - RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.MarshalledObject", codebase = ""
+2019-05-14 00:13:09 - Application shutdown requested.
+2019-05-14 00:13:09 - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@cd3fee8, started on Mon May 13 22:54:56 IST 2019
+2019-05-14 00:13:09 - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2019-05-14 00:13:09 - Unregistering JMX-exposed beans on shutdown
+2019-05-14 00:13:09 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-14 21:00:24 - Starting HelloWorldApplication on Om-PC with PID 5560 (F:\MVC_STS_workspace\ClentData\HelloWorld\target\classes started by Om in F:\MVC_STS_workspace\ClentData\HelloWorld)
+2019-05-14 21:00:24 - No active profile set, falling back to default profiles: default
+2019-05-14 21:00:29 - Tomcat initialized with port(s): 8080 (http)
+2019-05-14 21:00:29 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-14 21:00:29 - Starting service [Tomcat]
+2019-05-14 21:00:29 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-14 21:00:30 - Initializing Spring embedded WebApplicationContext
+2019-05-14 21:00:30 - Root WebApplicationContext: initialization completed in 5899 ms
+2019-05-14 21:00:30 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-14 21:00:31 - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-14 21:00:31 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-14 21:00:31 - Started HelloWorldApplication in 8.794 seconds (JVM running for 41.984)
+2019-05-14 21:01:58 - Application shutdown requested.
+2019-05-14 21:01:58 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-14 21:03:16 - Starting HelloWorldApplication on Om-PC with PID 5368 (F:\MVC_STS_workspace\ClentData\HelloWorld\target\classes started by Om in F:\MVC_STS_workspace\ClentData\HelloWorld)
+2019-05-14 21:03:16 - No active profile set, falling back to default profiles: default
+2019-05-14 21:03:19 - Tomcat initialized with port(s): 8080 (http)
+2019-05-14 21:03:19 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-14 21:03:19 - Starting service [Tomcat]
+2019-05-14 21:03:19 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-14 21:03:19 - Initializing Spring embedded WebApplicationContext
+2019-05-14 21:03:19 - Root WebApplicationContext: initialization completed in 2624 ms
+2019-05-14 21:03:20 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-14 21:03:21 - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-14 21:03:21 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-14 21:03:21 - Started HelloWorldApplication in 5.32 seconds (JVM running for 39.04)
+2019-05-14 21:03:59 - Application shutdown requested.
+2019-05-14 21:03:59 - Shutting down ExecutorService 'applicationTaskExecutor'
